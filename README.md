@@ -3,14 +3,14 @@ Test File upload <br>
 [Google ](https://www.google.com)  : search engin
 
 # Git
-Create <br>
+##### Create <br>
 git init <br>
-Config <br>
+##### Config <br>
 git config --global user.email "weiouv@gmail.com" <br>
 git config --global user.name "Nuttapong" <br>
-Chack <br>
+##### Chack <br>
 git config --list <br>
-Update <br>
+##### Update <br>
 git add .  <br>
 git commit -m "first commit" <br>
 
