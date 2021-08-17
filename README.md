@@ -3,20 +3,20 @@ Test File upload <br>
 [Google ](https://www.google.com)  : search engin
 
 # Git
-Create
-git init
-Config
-git config --global user.email "weiouv@gmail.com"
-git config --global user.name "Nuttapong"
-Chack
-git config --list
-Update
-git add . 
-git commit -m "first commit"
+Create <br>
+git init <br>
+Config <br>
+git config --global user.email "weiouv@gmail.com" <br>
+git config --global user.name "Nuttapong" <br>
+Chack <br>
+git config --list <br>
+Update <br>
+git add .  <br>
+git commit -m "first commit" <br>
 
-git remote add origin https://github.com/projectend/Fileconnec.git
-or
-git remote set-url origin https://github.com/projectend/Fileconnec.git
+git remote add origin https://github.com/projectend/Fileconnec.git <br>
+or <br>
+git remote set-url origin https://github.com/projectend/Fileconnec.git <br>
 
-git push -u origin master
+git push -u origin master <br>
 
