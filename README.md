@@ -28,5 +28,6 @@ git push -u origin master <br>
 docker ps <br>
 docker buil <br>
 docker run <br>
+docker exec <br>
 
 
