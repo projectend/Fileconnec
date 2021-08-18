@@ -24,9 +24,9 @@ git push -u origin master <br>
 
 # Docker
 [link Dowload](https://desktop.docker.com/win/stable/amd64/Docker%20Desktop%20Installer.exe) : install docker (Auto Restart)
-##### Chack Status
-docker ps
-docker buil
-docker run
+##### Chack Status<br>
+docker ps <br>
+docker buil <br>
+docker run <br>
 
 
